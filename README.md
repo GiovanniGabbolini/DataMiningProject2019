@@ -8,4 +8,4 @@ We were given a 1M+ interactions dataset recording speeds of the cars in servera
 We used Gradient Boosted trees with a chain of models to predict multiple speed steps over time. In particular, LightGBM and CatBoost were employed. Afterwards, we avaraged the predictions
 
 ## Results
-We ranked first over eight other teams with a MAE of 8.5 Km/h in the private test set
+We ranked __first__ over eight other teams with a MAE of __8.5 Km/h__ in the private test set
